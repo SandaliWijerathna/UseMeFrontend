@@ -1,0 +1,346 @@
+.logo{
+    left: 1100px;
+    top: 10px;   
+    height : 28%;
+    width: 15%;
+    position: absolute; 
+}
+
+.in{
+    
+    height : 6%;
+    width: 35%;
+    position: relative;
+    left: 460px;
+    top: 190px;
+} 
+
+.se{
+   
+    left: 70px;
+    top: 55px;   
+   
+}
+
+.fv{
+    left: 0px;
+    top: 55px;   
+    color:white;
+   background-image:url(fback.jpg);
+   height : 100%;
+    width: 100%;
+    position: absolute; 
+    background-color: black;
+}
+
+.Fview{
+    background-color: black;
+     border-color: white;
+     border-style: double;
+     border-width: 20;
+    height : 80%;
+    width: 35%;
+    position: absolute; 
+    left: 700px;
+    top: 50px;   
+    color:white;
+    
+  
+  }
+  
+  .fviewheadder{
+    font-family: "Lucida Console", Courier, monospace;
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+  }
+  
+  .Fviewheadder2{
+  
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    
+  }
+  
+  .h1{
+    colo: white;
+    font-size: 40px;
+    color: brown;
+    
+  }
+  
+  .Fviewheadder3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    font-size: 30px;
+    font-style: oblique;
+  }
+  
+  
+  
+  .picsFview{
+   background-color: black;
+  width:100%;
+  height:100%;
+  top:650px;
+  position: absolute;
+  
+  }
+  
+  .IMAGES1{
+    width:200px;
+    height:150px;
+    left:60px;
+    position: relative;
+    top:10px;
+  
+  }
+  
+  .IMAGES2{
+    width:200px;
+    height:150px;
+  
+    left:250px;
+    position: relative;
+    
+  }
+  
+  .IMAGES3{
+    width:200px;
+    height:150px;
+   position: relative;
+   left:60px;
+   position: relative;
+  }
+  
+  .IMAGES4{
+    width:200px;
+    height:150px;
+    left:250px;
+    position: relative;
+  }
+  
+  
+  .IMAGES5{
+    width:200px;
+    height:150px;
+    left:400px;
+  position: absolute;
+    top:10px;
+  }
+  
+  
+  .IMAGES6{
+    width:200px;
+    height:150px;
+    left:400px;
+  position: absolute;
+  top:300px;
+  }
+  
+  .final{
+
+    width:1400px;
+    height:500px;
+    left:0px;
+  position: absolute;
+  top:1290px;
+  background-color: white;
+
+  }
+  
+  .use{
+      color: black;
+      left: 5%;
+      position: absolute;
+      font-weight: 700px;
+      top:10%;
+      font-size: 50px;
+
+  }
+
+  .me{
+    color: red;
+    left: 12%;
+      position: absolute;
+      font-weight: 700px;
+      top:10%;
+      font-size: 50px;
+  }
+  
+  .a{
+    left: 700px;
+    position: absolute;
+    top:60px;
+    color: black;
+    font-weight: 1000;
+  }
+
+  .b{
+    left: 700px;
+    position: absolute;
+    top:90px;
+    color: black;
+    font-weight: 500;
+   
+
+  }
+  
+  .c{
+    left: 700px;
+    position: absolute;
+    top:120px;
+    color: black;
+    font-weight: 500;
+  }
+
+  .c1{
+    left: 700px;
+    position: absolute;
+    top:150px;
+    color: black;
+    font-weight: 500;
+  }
+
+  .d{
+    left: 700px;
+    position: absolute;
+    top:180px;
+    color: black;
+    font-weight: 500;
+  }
+
+  .e{
+    left: 1000px;
+    position: absolute;
+    top:60px;
+    color: black;
+    font-weight: 1000;
+  }
+  
+  
+  .f{
+    left: 1000px;
+    position: absolute;
+    top:90px;
+    color: black;
+    font-weight: 500;
+
+  }
+  
+  .g{
+    left: 1000px;
+    position: absolute;
+    top:120px;
+    color: black;
+    font-weight: 500;
+  }
+
+  .h{
+    left: 1000px;
+    position: absolute;
+    top:150px;
+    color: black;
+    font-weight: 500;
+  }
+  
+  .i{
+    left: 1000px;
+    position: absolute;
+    top:180px;
+    color: black;
+    font-weight: 500;
+  }
+  
+  .j{
+    left: 1000px;
+    position: absolute;
+    top:210px;
+    color: black;
+    font-weight: 500;
+  }
+  
+  .and{
+    left: 80px;
+    position: absolute;
+    top:240px;
+    height: 45px;
+    width:150px;
+ 
+  }
+
+  .ios{
+
+    left: 250px;
+    position: absolute;
+    top:240px;
+    height: 50px;
+    width:150px;
+ 
+  }
+
+  .line{
+      background-color: black;
+     position: relative;
+     top:320px; 
+  
+  }
+
+  .fb{
+    top:380px; 
+    position: absolute;
+    left: 60px;
+    height: 30px;
+    width:30px;
+  }
+
+  .insta{
+    top:380px; 
+    position: absolute;
+    left: 100px;
+    height: 30px;
+    width:40px;
+
+  }
+
+  .twitter{
+    top:380px; 
+    position: absolute;
+    left: 155px;
+    height: 30px;
+    width:30px;
+
+  }
+
+  .p{
+    top:380px; 
+    position: absolute;
+    left: 780px;
+    color: black;
+  
+  }
+
+  .q{
+    top:380px; 
+    position: absolute;
+    left: 900px;
+    color: black;
+      
+}
+
+.r{
+    top:380px; 
+    position: absolute;
+    left: 980px;
+    color: black;
+}
+
+.s{
+    top:380px; 
+    position: absolute;
+    left: 1080px;
+    color: black;
+      
+}

@@ -1,0 +1,33 @@
+.LoginForm{
+  max-width: 240px;
+  margin: auto;     
+  height: 100% ;  
+  color: white;
+}
+
+.header{
+  /* font-family: 'Times New Roman', Times, serif; */
+   font-style: normal;
+  font-size: normal; 
+  color: whitesmoke;
+  /* background-position:; */
+}
+
+body{
+  
+  background-image: url(image.jpg); 
+  background-color: #cccccc;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.cardo{
+background-color: black;
+height : 60%;
+width: 20%;
+position: relative;
+left: 150px;
+top: 59px;
+
+}
